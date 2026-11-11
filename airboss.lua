@@ -23,7 +23,7 @@ if recoverytanker then
 else
   MESSAGE:New("ERROR: Recovery tanker NOT Found",15):ToAll()
 end
-airbossCVN:SetRecoveryTanker()
+airbossCVN:SetRecoveryTanker(recoverytanker)
 
 airbossCVN:Start()
 
