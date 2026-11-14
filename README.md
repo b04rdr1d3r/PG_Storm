@@ -6,4 +6,4 @@ you can use all those functionalities to build ad hoc missions.
 
 CSAR script is also loaded and available.
 
-TODO: add an ATIS for the Al Dhafra air base
+if you only want to play, you only need to download the.miz file
